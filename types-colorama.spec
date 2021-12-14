@@ -4,7 +4,7 @@
 #
 Name     : types-colorama
 Version  : 0.4.4
-Release  : 1
+Release  : 2
 URL      : https://files.pythonhosted.org/packages/b3/4c/7657260a454fadc7a796fcefd6b92ae2d215222cf106f0c16621e592d915/types-colorama-0.4.4.tar.gz
 Source0  : https://files.pythonhosted.org/packages/b3/4c/7657260a454fadc7a796fcefd6b92ae2d215222cf106f0c16621e592d915/types-colorama-0.4.4.tar.gz
 Summary  : Typing stubs for colorama
