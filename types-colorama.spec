@@ -4,7 +4,7 @@
 #
 Name     : types-colorama
 Version  : 0.4.5
-Release  : 3
+Release  : 4
 URL      : https://files.pythonhosted.org/packages/b0/d1/4c85570d0144a3db62c12cdab74af8960b3fb238442782666694551b432a/types-colorama-0.4.5.tar.gz
 Source0  : https://files.pythonhosted.org/packages/b0/d1/4c85570d0144a3db62c12cdab74af8960b3fb238442782666694551b432a/types-colorama-0.4.5.tar.gz
 Summary  : Typing stubs for colorama
@@ -45,7 +45,7 @@ export http_proxy=http://127.0.0.1:9/
 export https_proxy=http://127.0.0.1:9/
 export no_proxy=localhost,127.0.0.1,0.0.0.0
 export LANG=C.UTF-8
-export SOURCE_DATE_EPOCH=1640711824
+export SOURCE_DATE_EPOCH=1641421975
 export GCC_IGNORE_WERROR=1
 export AR=gcc-ar
 export RANLIB=gcc-ranlib
