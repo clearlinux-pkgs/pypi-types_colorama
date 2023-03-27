@@ -1,5 +1,5 @@
 PKG_NAME := pypi-types_colorama
-URL = https://files.pythonhosted.org/packages/92/7e/7ef17ff43995cf65f61990092acb3420cd6bafc55050f66329e7e9d4157a/types-colorama-0.4.15.8.tar.gz
+URL = https://files.pythonhosted.org/packages/4d/f1/01f2576a3ad4e49bdc617ae75a343a29de1d3bd041644687459bc400e97b/types-colorama-0.4.15.9.tar.gz
 ARCHIVES = 
 
 include ../common/Makefile.common
