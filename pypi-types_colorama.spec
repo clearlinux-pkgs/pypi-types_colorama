@@ -4,10 +4,10 @@
 # Using build pattern: distutils3
 #
 Name     : pypi-types_colorama
-Version  : 0.4.15.10
-Release  : 33
-URL      : https://files.pythonhosted.org/packages/ef/4c/1fce9d63e5d924ece916504bd9baed29f6bdb060a9282ff9f4d30747b6af/types-colorama-0.4.15.10.tar.gz
-Source0  : https://files.pythonhosted.org/packages/ef/4c/1fce9d63e5d924ece916504bd9baed29f6bdb060a9282ff9f4d30747b6af/types-colorama-0.4.15.10.tar.gz
+Version  : 0.4.15.11
+Release  : 34
+URL      : https://files.pythonhosted.org/packages/2f/10/06c3d22234b00d511801a358593e70a4206ad9b8e212ebf3bd89e9acfea1/types-colorama-0.4.15.11.tar.gz
+Source0  : https://files.pythonhosted.org/packages/2f/10/06c3d22234b00d511801a358593e70a4206ad9b8e212ebf3bd89e9acfea1/types-colorama-0.4.15.11.tar.gz
 Summary  : Typing stubs for colorama
 Group    : Development/Tools
 License  : Apache-2.0
@@ -41,10 +41,10 @@ python3 components for the pypi-types_colorama package.
 
 
 %prep
-%setup -q -n types-colorama-0.4.15.10
-cd %{_builddir}/types-colorama-0.4.15.10
+%setup -q -n types-colorama-0.4.15.11
+cd %{_builddir}/types-colorama-0.4.15.11
 pushd ..
-cp -a types-colorama-0.4.15.10 buildavx2
+cp -a types-colorama-0.4.15.11 buildavx2
 popd
 
 %build
@@ -52,7 +52,7 @@ export http_proxy=http://127.0.0.1:9/
 export https_proxy=http://127.0.0.1:9/
 export no_proxy=localhost,127.0.0.1,0.0.0.0
 export LANG=C.UTF-8
-export SOURCE_DATE_EPOCH=1680102389
+export SOURCE_DATE_EPOCH=1680187926
 export GCC_IGNORE_WERROR=1
 export AR=gcc-ar
 export RANLIB=gcc-ranlib
