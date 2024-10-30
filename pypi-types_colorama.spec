@@ -7,7 +7,7 @@
 #
 Name     : pypi-types_colorama
 Version  : 0.4.15.20240311
-Release  : 40
+Release  : 41
 URL      : https://files.pythonhosted.org/packages/59/73/0fb0b9fe4964b45b2a06ed41b60c352752626db46aa0fb70a49a9e283a75/types-colorama-0.4.15.20240311.tar.gz
 Source0  : https://files.pythonhosted.org/packages/59/73/0fb0b9fe4964b45b2a06ed41b60c352752626db46aa0fb70a49a9e283a75/types-colorama-0.4.15.20240311.tar.gz
 Summary  : Typing stubs for colorama
